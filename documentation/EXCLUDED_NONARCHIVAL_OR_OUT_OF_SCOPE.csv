@@ -1,0 +1,8 @@
+source_path_or_pattern,reason
+"Twin Cities Streetcar/Manuscript/**",Manuscript drafts cover letters reviewer correspondence LaTeX build artifacts and duplicate paper folders are not archive data or code.
+"Twin Cities Streetcar/Analysis/**/.ipynb_checkpoints/**",Notebook checkpoint duplicates are excluded.
+"Twin Cities Streetcar/Analysis/July 25 2008 Analysis/*.smcl",Stata logs/results are outputs rather than necessary source data or code.
+"Twin Cities Streetcar/Analysis/updated_analysis/TC Streetcar Stata Analysis/*.smcl",Stata logs/results are outputs rather than necessary source data or code.
+"Twin Cities Streetcar/Analysis/July 25 2008 Analysis/output_block_all (TCStreetcar2.2.1).txt",Full block export exists but the paper's Stata analysis used a 20 percent sample; the 20 percent input is staged instead.
+"/Users/dlev2617/Sydney Uni Dropbox/David Levinson/Data/Streetcars/Streetcar Data Summarised",Later national streetcar/interurban summary work is not the paper-era Twin Cities parcel/streetcar panel source for this 2010 article.
+Raw MLS sale records,The paper reports MLS records were used only to rescue Hennepin County finished-square-footage data; raw MLS files are not included or needed for this public archive package.
