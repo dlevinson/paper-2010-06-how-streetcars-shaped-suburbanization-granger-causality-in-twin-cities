@@ -1,6 +1,6 @@
 # License Status: How Streetcars Shaped Suburbanization: Granger-Causality In Twin Cities
 
-Generated: 2026-05-22 06:51:10 AEST
+Generated: 2026-05-22 07:56:28 AEST
 
 No publication-level open license clue was detected automatically.
 
