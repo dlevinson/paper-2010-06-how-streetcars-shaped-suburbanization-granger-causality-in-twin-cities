@@ -63,5 +63,11 @@ Generated: 2026-05-22 07:56:28 AEST
 - Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- The repository license boundary is recorded in `LICENSE.md`.
 <!-- package-hardening-status:end -->
+
+## License
+
+See `LICENSE.md`. Author-created analysis code is MIT licensed; author-created
+derived data and documentation are CC BY 4.0. The paper and historical source
+materials retain their original terms.

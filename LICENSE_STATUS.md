@@ -1,13 +1,7 @@
-# License Status: How Streetcars Shaped Suburbanization: Granger-Causality In Twin Cities
+# License Status
 
-Generated: 2026-05-22 07:56:28 AEST
+Updated: 2026-06-22 AEST
 
-No publication-level open license clue was detected automatically.
-
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
-
-## Practical Rule
-
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+`LICENSE.md` applies MIT to author-created analysis code, CC BY 4.0 to
+author-created derived data/documentation, and preserves original terms for
+the paper and historical source materials.
