@@ -1,5 +1,9 @@
 # How Streetcars Shaped Suburbanization: Granger-Causality In Twin Cities
 
+## Contribution
+
+This paper provides historical causal evidence that electric streetcar expansion helped lead suburban residential development in Minneapolis–Saint Paul rather than merely responding to it. Tract- and block-level models for 1900–1930 show that proximity within walking distance of streetcar lines strongly predicted subsequent residential density.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2010-06`
